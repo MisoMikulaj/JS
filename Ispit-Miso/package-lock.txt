@@ -1,0 +1,6 @@
+{
+  "name": "Ispit-Miso",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {}
+}
